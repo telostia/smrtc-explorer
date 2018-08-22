@@ -20,7 +20,7 @@
   "language_fallback" : "us",
   
   // logo
-  "logo": "/images/ipsum_logo.png",
+  "logo": "/images/smrtc_logo.png",
 
   // favicon
   "favicon": "public/favicon.ico",

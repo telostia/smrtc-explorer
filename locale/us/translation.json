@@ -35,7 +35,7 @@
       "no_results": "Search found no results {{query}}"
     },
     "footer": {
-      "ips_network": "IPSUM NETWORK"
+      "smrtc_network": "SMART CLOUD"
     }
   },
   "explorer": {
