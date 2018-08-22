@@ -37,7 +37,7 @@ mongo
 ## Install Explorer
 ## ================
 
-* git clone https://github.com/telostia/smrtc-exp.git explorer
+* git clone https://github.com/telostia/smrtc-explorer.git explorer
 
 * cd explorer && npm install --production
 

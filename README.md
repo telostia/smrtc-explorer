@@ -1,3 +1,24 @@
+## Smart Cloud Explorer
+To install the explorer
+
+### Smart Cloud - Explorer Installation
+* [Smart Cloud explorer Install Guide](guides/explorer-guide.md)
+
+
+
+
+
+***************************************************************************************
+
+
+
+
+
+
+
+
+
+
 Ciquidus Alpha - 1.7.1
 ================
 
